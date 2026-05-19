@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lonako</title><description>A personal blog about technology, anime, and more.</description><link>https://firefly.cuteleaf.cn/</link><templateTheme>Firefly</templateTheme><templateThemeVersion>6.10.3</templateThemeVersion><templateThemeUrl>https://github.com/CuteLeaf/Firefly</templateThemeUrl><lastBuildDate>2026年5月17日 18:24:52</lastBuildDate><item><title>关于我。</title><link>https://firefly.cuteleaf.cn/posts/post2026-5-17-2/</link><guid isPermaLink="true">https://firefly.cuteleaf.cn/posts/post2026-5-17-2/</guid><description>一些互联网角落的坐标。</description><pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h1&gt;关于我&lt;a href=&quot;#关于我&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;您好！这里是 Lonako！&lt;/p&gt;&lt;p&gt;一个正在学习中的普通大学生，&lt;br /&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lonako</title><description>A personal blog about technology, anime, and more.</description><link>https://firefly.cuteleaf.cn/</link><templateTheme>Firefly</templateTheme><templateThemeVersion>6.10.3</templateThemeVersion><templateThemeUrl>https://github.com/CuteLeaf/Firefly</templateThemeUrl><lastBuildDate>2026年5月20日 00:14:31</lastBuildDate><item><title>关于我。</title><link>https://firefly.cuteleaf.cn/posts/post2026-5-17-2/</link><guid isPermaLink="true">https://firefly.cuteleaf.cn/posts/post2026-5-17-2/</guid><description>一些互联网角落的坐标。</description><pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h1&gt;关于我&lt;a href=&quot;#关于我&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;您好！这里是 Lonako！&lt;/p&gt;&lt;p&gt;一个正在学习中的普通大学生，&lt;br /&gt;
 会一点剪辑，会一点后期，会一点代码，想要继续点亮没有探索过的技能树！&lt;br /&gt;
 懂一点动漫，懂一点游戏，懂一点虚拟歌手，喜欢互联网文化，还有各种新奇的东西！&lt;/p&gt;&lt;p&gt;最近正在尝试搭建自己的个人博客，&lt;br /&gt;
 希望以后这里能慢慢变成我的赛博小屋。&lt;/p&gt;&lt;hr /&gt;&lt;section&gt;&lt;h2&gt;社交平台&lt;a href=&quot;#社交平台&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
@@ -40,7 +40,45 @@
 &lt;li&gt;AI&lt;/li&gt;
 &lt;li&gt;互联网文化&lt;/li&gt;
 &lt;li&gt;虚拟主播 / 虚拟偶像&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;那么也许我们会聊得来。&lt;/p&gt;&lt;p&gt;欢迎来到我的博客。&lt;/p&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item><item><title>第一篇文章。</title><link>https://firefly.cuteleaf.cn/posts/post2026-5-17-1/</link><guid isPermaLink="true">https://firefly.cuteleaf.cn/posts/post2026-5-17-1/</guid><description>搭建好个人博客后总要写点什么，对吧？</description><pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;花了一天来部署个人博客。&lt;a href=&quot;#花了一天来部署个人博客&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;/ul&gt;&lt;p&gt;那么也许我们会聊得来。&lt;/p&gt;&lt;p&gt;欢迎来到我的博客。&lt;/p&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item><item><title>尝试生成生日贺卡。</title><link>https://firefly.cuteleaf.cn/posts/post2026-5-19-1/</link><guid isPermaLink="true">https://firefly.cuteleaf.cn/posts/post2026-5-19-1/</guid><description>搭建好个人博客后总要写点什么，对吧？</description><pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;闲来无事让ChatGpt生成了一个简单的生日贺卡。&lt;a href=&quot;#闲来无事让chatgpt生成了一个简单的生日贺卡&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;真的非常的简单的那种，纯静态，三页，只使用简单的html、css和JaveScript的那种。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不过透过这个项目还是稍微学到一点点东西的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;HTML 根本不是“编程”&lt;a href=&quot;#html-根本不是编程&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;html没有循环、变量、函数、逻辑，和python那种步骤化的不一样。
+html是声明式的，而非命令式！
+这是计算机里特别经典的一组对比。&lt;/p&gt;&lt;p&gt;命令式（Imperative）
+代表：
+C
+Python
+Java
+JavaScript&lt;/p&gt;&lt;p&gt;声明式（Declarative）
+代表：
+HTML
+CSS
+SQL&lt;/p&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;HTML：负责“有什么”&lt;a href=&quot;#html负责有什么&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;HTML 决定：&lt;/p&gt;&lt;p&gt;网页里有什么内容&lt;/p&gt;&lt;p&gt;比如：&lt;/p&gt;&lt;p&gt;标题
+按钮
+图片
+段落
+视频&lt;/p&gt;&lt;p&gt;这些都属于 HTML。&lt;/p&gt;&lt;p&gt;它像：&lt;/p&gt;&lt;p&gt;网页骨架&lt;/p&gt;&lt;p&gt;例如：&lt;/p&gt;&lt;div&gt;&lt;figure&gt;&lt;figcaption&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;Terminal window&lt;/span&gt;&lt;/figcaption&gt;&lt;pre&gt;&lt;code&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;1&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;lt;h1&amp;gt;生日快乐！&amp;lt;/h1&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;2&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;lt;button&amp;gt;点击打开贺卡&amp;lt;/button&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;意思其实就是：&lt;/p&gt;&lt;p&gt;“这里有一个标题。”&lt;/p&gt;&lt;p&gt;“这里有一个按钮。”&lt;/p&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;CSS：负责“长什么样”&lt;a href=&quot;#css负责长什么样&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;CSS 决定：&lt;/p&gt;&lt;p&gt;网页长什么样&lt;/p&gt;&lt;p&gt;比如：&lt;/p&gt;&lt;p&gt;颜色
+字体
+阴影
+动画
+渐变
+圆角
+布局&lt;/p&gt;&lt;p&gt;这些都属于 CSS。&lt;/p&gt;&lt;p&gt;它像：&lt;/p&gt;&lt;p&gt;网页的装修与美化&lt;/p&gt;&lt;p&gt;例如：&lt;/p&gt;&lt;div&gt;&lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;pre&gt;&lt;code&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;1&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;button {&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;2&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;span&gt;background: pink;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;3&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;span&gt;border-radius: 999px;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;4&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;意思是：&lt;/p&gt;&lt;p&gt;“按钮变成粉色圆角。”&lt;/p&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;JavaScript：负责“会发生什么”&lt;a href=&quot;#javascript负责会发生什么&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;JavaScript 决定：&lt;/p&gt;&lt;p&gt;网页会发生什么&lt;/p&gt;&lt;p&gt;比如：&lt;/p&gt;&lt;p&gt;点击按钮
+页面切换
+弹窗
+播放音乐
+动画触发
+游戏逻辑&lt;/p&gt;&lt;p&gt;这些都属于 JavaScript。&lt;/p&gt;&lt;p&gt;它像：&lt;/p&gt;&lt;p&gt;网页的大脑与动作&lt;/p&gt;&lt;p&gt;例如：&lt;/p&gt;&lt;div&gt;&lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;pre&gt;&lt;code&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;1&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;button.onclick = () =&amp;gt; {&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;2&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;span&gt;alert(&quot;生日快乐！&quot;);&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;3&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;意思是：&lt;/p&gt;&lt;p&gt;“点击按钮后，弹出一句生日快乐。”&lt;/p&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;Cloudflare 部署：最后一关&lt;a href=&quot;#cloudflare-部署最后一关&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;终于，本地博客跑起来了。&lt;/p&gt;&lt;p&gt;我兴冲冲开始部署 Cloudflare。&lt;/p&gt;&lt;p&gt;然后：&lt;/p&gt;&lt;p&gt;炸了。&lt;/p&gt;&lt;p&gt;日志里一大片英文。&lt;/p&gt;&lt;p&gt;唉，就像是高中学信技，前面学单纯理解代码都还好，但是后期开始接触网络相关的就感觉不懂了。。。&lt;/p&gt;&lt;p&gt;后来慢慢定位问题，发现问题是：&lt;/p&gt;&lt;p&gt;Cloudflare Workers 和静态博客配置冲突。&lt;/p&gt;&lt;p&gt;然后。。。我就不懂了，ChapGpt的名词我一个看不懂。&lt;/p&gt;&lt;p&gt;最后发现是一个配置文件放在根目录的上一级目录了，哈哈😅&lt;/p&gt;&lt;hr /&gt;&lt;section&gt;&lt;h2&gt;尽管是一个几分钟的小项目也能学到很多呢&lt;a href=&quot;#尽管是一个几分钟的小项目也能学到很多呢&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;“希望之后每天都能抽出几分钟的时间这样学习”&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item><item><title>第一篇文章。</title><link>https://firefly.cuteleaf.cn/posts/post2026-5-17-1/</link><guid isPermaLink="true">https://firefly.cuteleaf.cn/posts/post2026-5-17-1/</guid><description>搭建好个人博客后总要写点什么，对吧？</description><pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;花了一天来部署个人博客。&lt;a href=&quot;#花了一天来部署个人博客&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;为什么突然有这个想法呢？&lt;/p&gt;
 &lt;/li&gt;
