@@ -1,6 +1,6 @@
 {
-	"name": "firefly",
-	"compatibility_date": "2025-01-01",
+	"name": "lonako-blog",
+	"compatibility_date": "2026-08-22",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"directory": "./dist"
